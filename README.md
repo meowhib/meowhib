@@ -3,6 +3,6 @@
 
 - I'm currently learning data science and machine learning.
 
-- Currently building a Udemy courses player for offline use.
+- Currently building a video courses player for offline use.
 
 - Reach me on mouhibenns@gmail.com
