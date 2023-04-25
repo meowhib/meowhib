@@ -3,6 +3,6 @@
 
 - I'm currently learning data science and machine learning.
 
-- Currently building a video courses player for offline use.
+- Currently building an app to help you make better decisions with your outfits.
 
 - Reach me on mouhibenns@gmail.com
